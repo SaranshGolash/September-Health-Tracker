@@ -17,7 +17,7 @@ The September Health Tracker is a web application designed to help users track t
 
 - **Frontend**: HTML, CSS, JavaScript, EJS
 - **Backend**: Node.js, Express
-- **Database**: MongoDB (or any preferred database)
+- **Database**: PostgreSQL (or any preferred database)
 - **APIs**: Fetch API for client-server communication
 
 ## Installation
